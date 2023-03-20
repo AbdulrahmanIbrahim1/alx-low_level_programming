@@ -1,11 +1,11 @@
 #include<stdio.h>
 
 /**
- *main -Entry pooint
+ * main -Entry pooint
  *
- *Description: A C program that prints with printf function.
+ * Description: A C program that prints with printf function.
  *
- *Rutern: Always 0 (Success)
+ * Rutern: Always 0 (Success)
 */
 
 int main(void)
